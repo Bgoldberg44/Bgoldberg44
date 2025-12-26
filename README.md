@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Benjamin Goldberg <br/><a href="(https://github.com/Bgoldberg44)">AI & Analytics | Information Assurance & Cybersecurity @ USF</h2> <a 
 
-<!--
-**Bgoldberg44/Bgoldberg44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👨‍💻 Projects:</h1> 
 
-Here are some ideas to get you started:
+- <b>Rhino Africa Data Analytics</b>
+  - [Rhino Africa Data Analytics Project 1](https://github.com/Bgoldberg44/rhino_africa_python)
+  - [Rhino Africa Data Analytics Project 2](https://github.com/Bgoldberg44/rhino_africa_data_analytics_project2)
+- <b>SafeSoft Data Analytics</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+<img align="left" alt="BenjaminGoldberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
+https://www.linkedin.com/in/benjamin-lee-goldberg/>
+
