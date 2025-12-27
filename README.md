@@ -12,8 +12,13 @@
 - Online Technology Marketplace
   - [Online Technology Marketplace (SQL + Visio)](https://github.com/Bgoldberg44/online_tech_marketplace)
 
-## LinkedIn:
-(https://www.linkedin.com/in/benjamin-lee-goldberg)
+#### 📊 Tableau Projects:
+- Sales and Profits Analysis Interactive Dashboard
+  - [8 Tabs | 3 KPI Dashboards | 1 Overview Dashboard | 1 Master Strategic Dashboard](https://www.youtube.com/watch?v=Z9DtGK-CzdI)
+- KAT Manufacturing 
+  - [7 Tabs | 1 Dashboard](https://www.youtube.com/watch?v=ivRCjE2kCqU)
+## Connect With Me:
+[Linkedin](https://www.linkedin.com/in/benjamin-lee-goldberg)
 
 
 
