@@ -12,7 +12,7 @@
 - Online Technology Marketplace
   - [Online Technology Marketplace (SQL + Visio)](https://github.com/Bgoldberg44/online_tech_marketplace)
 
-## 🤳 Connect with me on LinkedIn:
+## LinkedIn:
 (https://www.linkedin.com/in/benjamin-lee-goldberg)
 
 
