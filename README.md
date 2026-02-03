@@ -1,4 +1,4 @@
-<h1>Benjamin Goldberg <br/><a href="(https://github.com/Bgoldberg44)">AI & Analytics | Information Assurance & Cybersecurity @ USF</h2> <a 
+<h1>Benjamin Goldberg <br/><a href="(https://github.com/Bgoldberg44)">AI & Analytics | Finance @ USF</h2> <a 
 
 **🐍 Python Projects:**
 
