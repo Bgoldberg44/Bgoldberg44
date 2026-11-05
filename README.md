@@ -1,5 +1,5 @@
-<h1>Benjamin Goldberg <br/><a href="(https://github.com/Bgoldberg44)">AI & Analytics Student at USF</h2> <a 
-<h1>AI Automation Intern at SGC<h1></h1>
+<h1>Benjamin Goldberg <br/><a href="(https://github.com/Bgoldberg44)">AI & Analytics Student at USF</h1> <a 
+<h1>AI Automation Intern at SGC<h1><h2>
 
 **🐍 Python Projects:**
 
